@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-green)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-lightblue)
+
 # 🚀 SpaceX Launch Data Analysis & Prediction
 
 This project is part of the IBM Data Science Capstone.  
