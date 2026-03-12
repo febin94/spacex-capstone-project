@@ -26,9 +26,14 @@ It explores SpaceX launch data to identify factors influencing mission success a
 
 ## ▶️ Instructions to Run
 1. Clone the repository:
-2. Install dependencies:
-3. Run Jupyter notebooks:
-4. Launch the Plotly Dash app:
+   git clone     https://github.com/febin94/spacex-capstone-project.git
+   cd spacex-capstone-project
+3. Install dependencies:
+   pip install -r requirements.txt
+5. Run Jupyter notebooks:
+   jupyter notebook
+7. Launch the Plotly Dash app:
+   spacex-dash-app.py
 
 ## 👨‍💻 Author
 **Febin** – BCA Graduate, aspiring Data Scientist & ML Engineer  
