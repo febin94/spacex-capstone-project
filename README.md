@@ -2,6 +2,10 @@
 
 This project is part of the IBM Data Science Capstone.  
 It explores SpaceX launch data to identify factors influencing mission success and builds predictive models.
+## 📊 Key Findings
+- Payload mass and orbit strongly influence launch success.
+- Certain booster versions are more reliable.
+- Decision Tree model achieved highest accuracy (~83%).
 ## 📂 Repository Structure
 - `notebooks/` → Jupyter notebooks for each stage (API, scraping, wrangling, EDA, ML).
 - `app/` → Plotly Dash app for interactive visualization.
@@ -26,7 +30,7 @@ It explores SpaceX launch data to identify factors influencing mission success a
 
 ## ▶️ Instructions to Run
 1. Clone the repository:
-   git clone     https://github.com/febin94/spacex-capstone-project.git
+   git clone https://github.com/febin94/spacex-capstone-project.git
    cd spacex-capstone-project
 3. Install dependencies:
    pip install -r requirements.txt
